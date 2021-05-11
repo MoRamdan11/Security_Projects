@@ -15,5 +15,5 @@ https://drive.google.com/file/d/1srlWZZo5HMNpQzF4KYSyVUoh_1x1F5Dx/view?usp=shari
 I have Implemented DES (Data Encryption Standard) Algorithm.
 ### exe file installation link
 https://drive.google.com/file/d/1ZiJMlc_aT8_HXjRCx6mcl6G8cJCcYiHe/view?usp=sharing
-### Guide for Exe file
+### Guide for exe file
 [DES_Guide.pdf](https://github.com/MoRamdan11/Security_Projects/files/6461161/DES_Guide.pdf)
