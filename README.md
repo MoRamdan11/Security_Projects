@@ -1,11 +1,12 @@
 # Security_Projects
 # 1-Classical Ciphers
 In this project, i have implemented classical ciphers algorithms:<br />
-1- Cesar Cipher <br />
-2- PlayFair Cipher <br />
-3- Hill Cipher <br />
-4- vignere Cipher <br />
-5- Vernam Cipher <br />
+* Cesar Cipher
+*  PlayFair Cipher
+*  Hill Cipher
+*  vignere Cipher 
+*  Vernam Cipher
+
 ### exe file installation link:
 https://drive.google.com/file/d/1srlWZZo5HMNpQzF4KYSyVUoh_1x1F5Dx/view?usp=sharing
 ### Guide for exe file
